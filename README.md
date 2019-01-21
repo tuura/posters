@@ -1,5 +1,9 @@
 # Tuura posters
 
+## 2019
+
+* Georgy Lukyanov. _Fine-Grained Stateful Computetaions_. POPL'19 Student Research Competition, 2019. [[poster](https://github.com/tuura/posters/blob/master/popl19src_fine-grained-state.pdf)]
+
 ## 2018
 
 * Danil Sokolov, Alessandro de Gennaro, Andrey Mokhov. _Reconfigurable Self-Timed Dataflow Accelerator_. Design, Automation and Test in Europe (DATE) conference, 2018.
